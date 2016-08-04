@@ -6,9 +6,9 @@ color:
   saturation: 0.5318761258386075
   rhythmicContrast: 0.8603257858194411
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Licks by Loki
